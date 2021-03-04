@@ -1,0 +1,1 @@
+This is bootstrap theme for wordpress website 
